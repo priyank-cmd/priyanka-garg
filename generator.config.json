@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-03-23T10:28:43.617Z",
+  "companyFeatures": [
+    "chat"
+  ],
+  "companyWebsiteUrl": "https://theninehertz.com/",
+  "companyName": "Priyanka Garg",
+  "companyLogoUrl": "/brand-logo.png",
+  "companyOtherUrls": [
+    "https://vidhema.com/"
+  ],
+  "mode": "full-app-mirror",
+  "description": "Full workspace snapshot: real server.js, orchestration/, React src/, RAG. Same behavior as source after npm install --legacy-peer-deps."
+}
